@@ -4,4 +4,4 @@ This is a public repository managed by PaidPaper. The code is based in Python. I
 
 Testing
 
-//comments wrong
+//wrong comment
